@@ -1,40 +1,27 @@
 ---
 layout: post
-title:  "The 2024 Campaign: A Case Study in Political Economics and the NEW Logic of Collective Action"
-date:   2023-12-17 4:30:00
-categories: Discipline
+title:  "Serve first"
+date:   2023-12-09 4:30:00
+categories: OpenSource
 ---
 
-# Civics lesson: Key Dates in how the Electoral Collage functions
+# Civics lesson: Local Voluntarism
 
-Today, on the 17th day of December in 2023, we are exactly one full year out from when the Electors meet in their respective States and vote for President and Vice President on separate ballots. On December 17, 2024, the 538 Electors record their votes on six Certificates of Vote, which are paired with the six remaining Certificates of Ascertainment. The electors sign, seal up, and certify six sets of electoral votes. Each State's set of electoral votes consists of one Certificate of Ascertainment and one Certificate of Vote. Electoral votes must be received by the President of the Senate and the Archivist no later than the fourth Wednesday in December. If votes are lost or delayed, the Archivist may take extraordinary measures to retrieve duplicate originals. On or before January 3, 2025, the US Archivist transfers Certificates to Congress. On January 6, 2025, Congress meets in joint session to count the electoral votes. The Vice President, as President of the Senate, presides over the count and announces the results of the Electoral College vote. 
+It starts with YOU and ONLY YOU. Serve FIRST.
 
-It's basically already way to late for any citizen to do anything other in 2024 than just vote and help get out the vote so that all elgible voters exercise their legal right to vote.
+Volunteer doing something that you LOVE every single day. Don't build somebody else's organization ... BUILD something that you love AS YOU SHARE IT.
 
-***It is NONE TOO EARLY to start thinking about the 2028 race ... or the 2032 race.***
+Greenspace.Group is fundamentally an open source development community ... we are not a political organization.  We are open source developers of community of people who love and enjoy our local greenspaces ... our people spend time, every single day, enjoying and preserving their local natural heritage.
 
-# 2024 is for STUDYING How to Best Run for POTUS in 2028
-
-Stop looking in the rear view mirror ... THINK about the Journey ahead. 
-
-By January 1st, 2021, right after the 2020 elections, the STRATEGIC decisions that were going to affect the 2024 campaign were already made. AFTER that, every significant move was a matter of implementing a tactical decision. 
-
-Now, in late 2023, it's already time to start cutting up the carcasses and do the POST-mortem autopsy on the failed candidacies of 2024.
-
-## What does NOT work and why it fails
-
-The race for 2024 STARTED IN EARNEST in December 2020, right after the Electoral College convened and the state legislatures across the country certified the electors. Of course, individuals that would run in 2024 had already had a LIFETIME of personal strategic decisions that had occured in the four or five decades BEFORE 2020 ... but, the CAMPAIGN for 2024, started right after the votes were tabulated and certified in 2020.
-
-Of course, we know from history, that candidates have to have successfully DEMONSTRATED to all of those around them a pathologically level of ambition for the Oval office. Any serious candidate really must aspire ***serioiusly*** to prepare their lives to be ready for the Presidency from their youth.  There are only a few thousand [at most] people in that pool of citizen leaders -- we are not talking about those people, ie the people who will have served in a Legislature OR as a Governor OR will have started/ran a major enterprise. That is actually far more interesting, more human topic ... it's not just the Founding Fathers OR Abraham Lincoln or all kinds of biographies of major figures, studying success and leadership will be far more applicable than the topic of political campaigns.  
+This is not as easy as it sounds ... LOVING natural greenspaces takes commitment and eventually money and then a LOT MORE commitment ... fundamentally, it requires hard work and a disciplined commitment to both preserve a natural heritage resource, but also to improve it for those who will come after us in the next centuries. It's not just some hippie thing ... it's a dead serious disciplined, daily, ongoing commitment to the future of our communities and our country. 
 
 # Political Economics and the NEW Logic of Collective Action.
 
-Campaign management is like the Art of War or Clausewitz's On War really boring stuff. Developing successful campaigns actually involves digging to the details of different fairly dry, technical, low-level topics in the practical organization of campaigns.
+Local voluntarism is about the NEW logic of collective action.
 
-It's NOT about the drama in the Oval Office or even on the gossip on campaign bus. Campaigns like wars are an extension of politics and  political decisionmaking is really about a lot of low-level details of how things get done.  Power does not just emerge; it emerges because the parties in power have an established track record of listening to [powerful] constituents and finding ways to put together the votes or coalitions in order to get things. Making sausage is fundamentally about GRINDING and mixing and then putting the ground mix in a tube.
+It's not about rent-seeking like the OLD logic was.  The new logic of collective action is about how we assemble the material that going to go into the grinder in a manner that will be successful. Of course, NOW campaingns are primarily about new things like social media, analytics and efficiently tracking the success of content generation operations and optimizing asynchronous networks of opinion leaders. Yes, we still still see old school stuff like yardsigns and billboards, blizzards of mass mailers and the even more annoying carpetbombing of advertisements across different forms of media.  
 
-The new logic of collective action is about how we assemble the material that going to go into the grinder in a manner that will be successful. Of course, NOW campaingns are primarily about new things like social media, analytics and efficiently tracking the success of content generation operations and optimizing asynchronous networks of opinion leaders. Yes, we still still see old school stuff like yardsigns and billboards, blizzards of mass mailers and the even more annoying carpetbombing of advertisements across different forms of media.  
-The DATA on campaigns is kind of stuff that economists and political economists and historians want to study ... but's that not where the work happens.
+Building communities that will sustain and improve new greenspaces is going to involve a ridiculously tough campaign ... it might feel like a bit of a fight or a war at times, because this campaign will be about changing the selfish, mindless habits of who we are. It will take an effort from each one of us ... and it will definitely be a CAMPAIGN.  The DATA on campaigns is kind of stuff that economists and political economists and historians want to study ... but's that not where the work happens.
 
 ## SERVING constituents before elections to CONVINCE them that the candidate will serve them even better as an incumbent
 
