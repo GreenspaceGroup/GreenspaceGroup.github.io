@@ -148,9 +148,31 @@ Here are some ideas for what that might look like:
 
 19) Do you follow open source development, maybe try to [keep up with the PyTorch blog](https://pytorch.org/blog/), follow the [best curated PyTorch list](https://github.com/ritchieng/the-incredible-pytorch) and personally [annotate your own personal AWESOME PyTorch list](https://github.com/BrunoScience/the-incredible-pytorch)? Do you get technology and, more importantly, do you get the development communities that surround tech?
 
-20) How familiar are you with the realm of prediction markets for politics ... not just the markets themselves, but also the discussion forums?  Have you thought about the broader use of these kinds of markets for risk mgmt and microinsurance ... what's the best probabalistic outcome and how can we eliminate or mitigate the failure modes that threaten achievement of that outcome? 
+20) Set up a Discord server for your campaign campaign or organization:
 
-21) How should anyone go about the process of trying stay fit? It's primarily a MENTAL exercise and matter of personal discipline ... but not it can augmented with apps ... and apps can be further augmented with things like AI for just giving answers rather requiring the tedious processes of keeping up with ALL of the literature ... but, realistically, how is your campaign going to encourage health and fitness? Could you encourage people to join you on five mile hikes around town?  Beyond a physical exercise component, how about a nutritional component like a healthy chili/favorite soup potluck supper? 
+   A) Clearly define the purpose and scope of the server: Before creating a Discord server, it's important to clearly define its purpose and scope. What is the server for? Who is the target audience? What kind of content will be shared?
+   
+   B) Choose the right server settings: Discord offers various settings that can help you customize your server to fit your needs. Consider settings such as server region, language, and category.
+
+   C) Create clear and concise rules: Establishing rules for your server will help maintain a positive and respectful environment for your community. Make sure the rules are easy to understand and accessible to all members.
+   
+   D) Recruit and appoint capable, trusted moderators: Moderators play a crucial role in maintaining a positive and respectful environment on your server. Choose trusted individuals who share your organization's values and are familiar with your community guidelines.
+
+   E) Use channels effectively: Channels help organize conversations and keep your server tidy. Create channels for different topics, such as announcements, discussions, and support.
+
+   F) Utilize roles and permissions: Roles and permissions allow you to manage access to certain features and content within your server. Use roles to assign tasks and responsibilities to moderators and members.
+
+   G) Engage with your community: A successful Discord server relies on active engagement from members. Encourage discussion, host events, and recognize member contributions to foster a sense of community.
+   
+   H) Monitor and address issues promptly: Keep an eye on server activity, and address any issues or concerns promptly. This will help maintain a positive environment and prevent misunderstandings from escalating.
+   
+   I) Regularly update and communicate changes: Keep your community informed about updates, changes, and future plans. This will help build trust and ensure everyone is on the same page.
+   
+   J) Follow Discord's community guidelines and terms of service: Familiarize yourself with Discord's community guidelines and terms of service. Ensure your server complies with these guidelines to avoid any issues or penalties.
+   
+   K) Advance to the next level by just *really using* different Discord Servers a bit first in order to REALLY understand what's happening behind the scenes so  that you can [intelligently explore how the Discord code works](https://discord.com/developers/docs/intro). Be sure to join the Discord Developers Server to begin to map out some ideas to develop a next-phase strategy which includes the Discord API as well as various bots that seem to work especially well such as the [best calendar bot For Discord](https://sesh.fyi/).
+
+21) How do greenspaces help people to stay more fit and especially mentally healthy, ie more engaged with their community and Nature.  How should anyone go about the process of trying stay fit? It's primarily a MENTAL exercise and matter of personal discipline ... but it can augmented with *BUDDYTRACKING* apps and local friends ... and apps can be further augmented with things like AI for just giving answers rather requiring the tedious processes of keeping up with ALL of the literature ... but, realistically, how is your campaign going to encourage health and fitness? Could you encourage people to join you on five mile hikes around town?  Beyond a physical exercise component, how about a nutritional component like a healthy chili/favorite soup potluck supper? 
 
 22) How can can a campaign optimize it's Github engagement? ... beyond just commitgraph ... can it encourage forking of its repositories?  Can it use actions for build/review/test during dev ... what about copilot ... or discussions ... issues-driven CI/CD ... better commit messages and Git discipline... can it become the best Github advertisement for everything Github?  MOSTLY, can it use Github and forked repositories in affiliated campaigns to build a community of supporters and volunteers TO ELECT YOUR POLITICAL ALLIES TO OFFICE IN 2026?
 
