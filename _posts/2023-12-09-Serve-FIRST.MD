@@ -136,7 +136,7 @@ Here are some ideas for what that might look like:
 
 13) How's your infographic and data visualization game?  Can you enlighten your voters with a data-driven discussion of how issues might affect their region.  Do you know what [Generic Mapping Tools(GMT)](https://docs.generic-mapping-tools.org/latest/) are?
 
-14) https://github.com/opengeospatial/ogcapi-features ... https://user.buildingsmart.org/ ... https://en.wikipedia.org/wiki/Building_information_modeling ... mapping with LiDAR or smartphone ultra HDR data
+14) https://github.com/opengeospatial/ogcapi-features ... https://user.buildingsmart.org/ ... https://en.wikipedia.org/wiki/Building_information_modeling ... mapping with LiDAR or smartphone ultra HDR data ... [MUDDI](https://github.com/opengeospatial/developer-events/wiki/muddi%E2%80%90overview) for gas, electricity, water infrastructure data 
 
 15) Are you ready to discuss the key benefits of an advanced, more informed energy policy for the next century ... maybe there are good reasons for doubting whether [advanced small modular nukes](https://www.energy.gov/ne/articles/4-key-benefits-advanced-small-modular-reactors) are strictly a good thing since economies of scale are a very huge, very real and inescapable thermodynamic thing in power generation ... decentralized power generation is not good just because it happens to be a currently popular political fad and people are [temporarily] way too excited about decentralized things ... sometimes, as with power generation in particular, centralization is a VERY VERY positive attribute ... even though MOST OF THE TIME, we really want to DECENTRALIZE THE HECK OUT OF EVERYTHING.
 
