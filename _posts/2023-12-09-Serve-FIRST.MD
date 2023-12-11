@@ -35,6 +35,30 @@ We are open source developers of community of people who love and enjoy our loca
 
 This is not as easy as it sounds ... LOVING natural greenspaces takes commitment and eventually money and then a LOT MORE commitment ... fundamentally, it requires hard work and a disciplined commitment to both preserve a natural heritage resource, but also to improve it for those who will come after us in the next centuries. It's not just some hippie thing ... it's a dead serious disciplined, daily, ongoing commitment to the future of our communities and our country. 
 
+## Why was Discord chosen as the primary communication platform for the GreenspaceGroup?
+
+Social networks help us achieve our purposes ... there are good reasons why people go to the bother of mastering the use of things like Twitter, LinkedIn or Facebook ... 
+
+It's PARTLY about communication and efficiently staying in touch ... almost everyone [who read this] will already have an email address and reasons for periodically checking that account.  As with that email address, social network platforms require constant curation and pruning.  That's particularly true in the case of something like Facebook because these platforms are only in existence because of ad revenues and the social networks tracking and analytics to target PASSIVE users.  Discord, in contrast to Facebook, is less about advertising and selling of tracking/analytics data of users -- Discord is more about selling subscriptions to ACTIVE users who are more engaged in developing their own more intensely focused networks of people with a passionate interest in a very particular topic. 
+
+We can think about several facets in which Discord and Facebook are two very different platforms serve very different purposes. The PRIMARY difference is that Discord users will be much younger, much less PASSIVE, much less likely to just sit back and scroll through their content feed to entertain them as if the users were watching television and the postings were there to entainthem ...  but here are SOME of the OTHER key differences:
+
+* Purpose: Discord is primarily used as a primary communication medium for active development communities, groups, teams that actively interact with one another over something like a game, project or product launch, while Facebook is a social networking platform that allows users to stalk and connect [or re-connect] with old friends, family and cousins, and other distant acquaintances who users might know from past associations or events but are not now actively engaged in developing new projects, ventures or products.
+
+* Focus: Discord's main focus is on real-time text, voice, and video communication, interaction and doing things NOW, while Facebook's focus is on sharing updates, photos, and videos with a wider audience that may or may not particularly care all that much.
+
+* Audience: Discord's user base is primarily made up of developers and younger under-40 communities with a strong focus on real-time communication and active back-and-forth collaboratio [as in online games or sw development], while Facebook's user base is much broader, but older and more passively-inclined with undefined set of interests or interests tied to the demographic segments they identified with four or five decade agos.
+
+* Features: Discord offers user-developed, user-defined active communication features such as voice and video chat, lo fi music and screen sharing, and integrations with group-specific games and imaging services/video, while Facebook offers mega-mass-market features such as a FB-Engineering restricted news feed, groups, reels, and messaging that integrates with Instagram.
+
+* Monetization: Discord generates revenue primarily through value-added subscription-based services, such as Discord Nitro which appeal to channel developers who use such services to provide a more customized vibe to their Discord servers, while Facebook generates revenue primarily through advertising and selling user analytics and tracking data to companies marketing to older, wealthier, more passive users.
+
+* User interface: Discord's user interface is designed to be clean and simple, with a focus on ease of use and efficiency, while Facebook's user interface is more complex, with a wide range of features and options.
+
+* Data privacy: Discord has faced some criticism for its data collection practices, but it has taken steps to improve its privacy controls and be more transparent about how it handles user data. Facebook, on the other hand, continues to face more and more privacy concerns and controversies over the years, while the Meta parent company of Facebook has implemented various measures designed to improve its revenue stream while staying a half-step ahead of the regulators who understand that Facebook is a master at protecting its revenue stream from older, more passive and wealthy users.
+
+In summary, while both Discord and Facebook are extremely popular online platforms ... Facebook may have an order or two more in terms of users, but Discord has two or three hundred million users ... the two different entities have similiarities by they serve two entirely different purposes and cultivate a very different user demographic.
+
 # Political Economics and the NEW Logic of Collective Action.
 
 Local voluntarism is about the NEW logic of collective action.
