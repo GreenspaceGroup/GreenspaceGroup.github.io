@@ -11,15 +11,27 @@ It starts with YOU and ONLY YOU. Serve FIRST.
 
 Serve FIRST.
 
-Serve FIRST!
+EXCLUSIVELY SERVE FIRST! There's no need to build any other thing does not primarily SERVE the objective of its constituents FIRST.  
 
-Serve FIRST!!!
+Serve FIRST!!!  We are not running for office; we are not some caped crusader, but we really ARE just like Robin Hood and the merry souls of Sherwood Forest ... we are committed to the stewardship of our Creator's land -- that is why we save, invest, manage, tend and celebrate the land ... we put Aldo Leopold's LAND ETHIC into practice through our shared commitment to sustainable stewardship.  Just as is the case with planting majestic, high quality trees that we will never see -- we plant the saplings now because although those trees will thrive for hundreds of years after we are gone, someone must start the process NOW ... so we SERVE FIRST with Greenspace.Group to help others practice the land ethic, primarily with an eye to the future ... we intend to ensure that these greenspaces we start now are available for hundreds of years, for the citizens of the future whose lives are not yet even imagined. 
 
-Volunteer doing something that you passionately LOVE every single day. 
+If humans want to be successful and find satisfaction in life, it is necessary for them to voluntarily do something that is about working diligently on some concrete vocation that they passionately LOVE every single day. It's all about SERVING the Creator ... SERVING a greater, larger more distant good.
 
-Don't build somebody else's organization ... BUILD something that you love AS YOU SHARE IT.
+Don't build somebody else's manipulative organization or some political campaign ... if you have enough to get by, stop worrying about assets or money ... render unto Caesar the things that are Caesar's ... let the dead bury their dead ... stay healthy, stay engaged with your Creator by BUILDING something that you love and will give away.  This is the civics lesson of local voluntarism.
 
-Greenspace.Group is fundamentally an open source development community ... we are not a political organization.  We are open source developers of community of people who love and enjoy our local greenspaces ... our people spend time, every single day, enjoying and preserving their local natural heritage.
+# What is the Greenspace Group? What is different about the Greenspace Group?
+
+Greenspace.Group is fundamentally an open source development organization that primarily *lives* on Github and Discord.
+
+***The whole POINT of the Github organization and Discord server are about SERVING the larger community of people interested in local greenspaces in their local area.***
+
+Greenspaces themselves are fundamentally NOT political; they are just open natural spaces that are for spending time outdoors, walking/hiking/exercising ... possibly alone and possibly with other people.  GreenspaceGroup is aggresssively NOT a political organization ... but it is an advocay organization.  As such, we do recognize the INTENSELY political nature of city councils, which tend to be populated by local business owners who need a politically favorable environment for their business ... we do recognize why homeowners associations form out of INTENSELY political reasons or the attempts of karens, gossips and snoops who can't mind their own business ... we do recognize why other county and state level agencies are politically formed and how the bureaucrats that populate thes jobs that seek additional rents [and higher salaries from greater responsibilities of controlling private property] as they license and restrict *pursuit of happiness* or the exercise of property rights ... POLITICAL POWER is FUNDAMENTALLY about the political process of hijacking the majoritary in order to direct the coercive force of the political lynch mobs to gain more power.  
+
+GreenspaceGroup recognizes that advocating for a LAND ETHIC is fundamentally about the preservation of the roles for private citizens, small landholders and unaffiliated groups of citizens ... GreenspaceGroup serves it constitutents first in the exercise of their LEGAL and CONSTIUTIONAL rights to SHARE and responsibly do the stewardship which will allow future generations to continue to ENJOY local greenspaces. 
+
+## How does the GreenspaceGroup, as a virtual organization practice its "SERVE FIRST" motto?
+
+We are open source developers of community of people who love and enjoy our local greenspaces ... our people spend time, every single day, enjoying and preserving their local natural heritage.
 
 This is not as easy as it sounds ... LOVING natural greenspaces takes commitment and eventually money and then a LOT MORE commitment ... fundamentally, it requires hard work and a disciplined commitment to both preserve a natural heritage resource, but also to improve it for those who will come after us in the next centuries. It's not just some hippie thing ... it's a dead serious disciplined, daily, ongoing commitment to the future of our communities and our country. 
 
