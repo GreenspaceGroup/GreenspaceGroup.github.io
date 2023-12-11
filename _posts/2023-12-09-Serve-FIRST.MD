@@ -9,7 +9,15 @@ categories: OpenSource
 
 It starts with YOU and ONLY YOU. Serve FIRST.
 
-Volunteer doing something that you LOVE every single day. Don't build somebody else's organization ... BUILD something that you love AS YOU SHARE IT.
+Serve FIRST.
+
+Serve FIRST!
+
+Serve FIRST!!!
+
+Volunteer doing something that you passionately LOVE every single day. 
+
+Don't build somebody else's organization ... BUILD something that you love AS YOU SHARE IT.
 
 Greenspace.Group is fundamentally an open source development community ... we are not a political organization.  We are open source developers of community of people who love and enjoy our local greenspaces ... our people spend time, every single day, enjoying and preserving their local natural heritage.
 
