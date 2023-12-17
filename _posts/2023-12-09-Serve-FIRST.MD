@@ -5,101 +5,28 @@ date:   2023-12-09 4:30:00
 categories: OpenSource
 ---
 
-# Civics lesson: Local Voluntarism
 
-It starts with YOU and ONLY YOU. Serve FIRST.
 
-Serve FIRST.
+# What is the Greenspace Group? WHY is a Greenspace Group primarily technological?
 
-EXCLUSIVELY SERVE FIRST! There's no need to build any other thing does not primarily SERVE the objective of its constituents FIRST.  
-
-Serve FIRST!!!  We are not running for office; we are not some caped crusader, but we really ARE just like Robin Hood and the merry souls of Sherwood Forest ... we are committed to the stewardship of our Creator's land -- that is why we save, invest, manage, tend and celebrate the land ... we put Aldo Leopold's LAND ETHIC into practice through our shared commitment to sustainable stewardship.  Just as is the case with planting majestic, high quality trees that we will never see -- we plant the saplings now because although those trees will thrive for hundreds of years after we are gone, someone must start the process NOW ... so we SERVE FIRST with Greenspace.Group to help others practice the land ethic, primarily with an eye to the future ... we intend to ensure that these greenspaces we start now are available for hundreds of years, for the citizens of the future whose lives are not yet even imagined. 
-
-If humans want to be successful and find satisfaction in life, it is necessary for them to voluntarily do something that is about working diligently on some concrete vocation that they passionately LOVE every single day. It's all about SERVING the Creator ... SERVING a greater, larger more distant good.
-
-Don't build somebody else's manipulative organization or some political campaign ... if you have enough to get by, stop worrying about assets or money ... render unto Caesar the things that are Caesar's ... let the dead bury their dead ... stay healthy, stay engaged with your Creator by BUILDING something that you love and will give away.  This is the civics lesson of local voluntarism.
-
-# What is the Greenspace Group? What is different about the Greenspace Group?
-
-Greenspace.Group is fundamentally an open source development organization that primarily *lives* on Github and Discord.
+Greenspace.Group is about making better use of land ... our group's strategy for accomplishing that is primarily technological. Of course, we love to spend time outdoors, but the emphasis of this particular group is on things like GIS software, CAD tools for landscape architecture utlizing photogrammetry for measuring sites and accurately discussing alternatives with augmented reality so that we can more efficiently implement consensus design.  We are also very interested in developing various tools for microscopically exploring soil and living ecoystems  open source development meta-organization that is strictly virtual and primarily *lives* in the discussions of issues on Github or perhaps Google Workspace Documents/Chat.
 
 ***The whole POINT of the Github organization and Discord server are about SERVING the larger community of people interested in local greenspaces in their local area.***
 
-Greenspaces themselves are fundamentally NOT political; they are just open natural spaces that are for spending time outdoors, walking/hiking/exercising ... possibly alone and possibly with other people.  GreenspaceGroup is aggresssively NOT a political organization ... but it is an advocay organization.  As such, we do recognize the INTENSELY political nature of city councils, which tend to be populated by local business owners who need a politically favorable environment for their business ... we do recognize why homeowners associations form out of INTENSELY political reasons or the attempts of karens, gossips and snoops who can't mind their own business ... we do recognize why other county and state level agencies are politically formed and how the bureaucrats that populate thes jobs that seek additional rents [and higher salaries from greater responsibilities of controlling private property] as they license and restrict *pursuit of happiness* or the exercise of property rights ... POLITICAL POWER is FUNDAMENTALLY about the political process of hijacking the majoritary in order to direct the coercive force of the political lynch mobs to gain more power.  
+Greenspaces themselves are fundamentally NOT political; they are just open natural spaces that are for spending time outdoors, walking/hiking/exercising ... possibly alone and possibly with other people.  GreenspaceGroup is aggresssively NOT a political organization ... but since we are primarily engaged in technology, we will have a bit of measurement-driven, scientific perspective as an advocasy organization.
 
-GreenspaceGroup recognizes that advocating for a LAND ETHIC is fundamentally about the preservation of the roles for private citizens, small landholders and unaffiliated groups of citizens ... GreenspaceGroup serves it constitutents first in the exercise of their LEGAL and CONSTIUTIONAL rights to SHARE and responsibly do the stewardship which will allow future generations to continue to ENJOY local greenspaces. 
+We do recognize the INTENSELY political nature of city councils, zoning commissions, homeowners associations ... but interest is about optimizing land use for all and especially doing that for people who will be around long after we are gone. We can afford to be extremely patient ... and just focus on developing nifty open source technology that will help people to make better shared decisions as they come up with better ways to use land.
 
-## How does the GreenspaceGroup, as a virtual organization practice its "SERVE FIRST" motto?
-
-We are open source developers of community of people who love and enjoy our local greenspaces ... our people spend time, every single day, enjoying and preserving their local natural heritage.
-
-This is not as easy as it sounds ... LOVING natural greenspaces takes commitment and eventually money and then a LOT MORE commitment ... fundamentally, it requires hard work and a disciplined commitment to both preserve a natural heritage resource, but also to improve it for those who will come after us in the next centuries. It's not just some hippie thing ... it's a dead serious disciplined, daily, ongoing commitment to the future of our communities and our country. 
-
-## Why was Discord chosen as the primary communication platform for the GreenspaceGroup?
-
-Social networks help us achieve our purposes ... there are good reasons why people go to the bother of mastering the use of things like Twitter, LinkedIn or Facebook ... 
-
-It's PARTLY about communication and efficiently staying in touch ... almost everyone [who read this] will already have an email address and reasons for periodically checking that account.  As with that email address, social network platforms require constant curation and pruning.  That's particularly true in the case of something like Facebook because these platforms are only in existence because of ad revenues and the social networks tracking and analytics to target PASSIVE users.  Discord, in contrast to Facebook, is less about advertising and selling of tracking/analytics data of users -- Discord is more about selling subscriptions to ACTIVE users who are more engaged in developing their own more intensely focused networks of people with a passionate interest in a very particular topic. 
-
-We can think about several facets in which Discord and Facebook are two very different platforms serve very different purposes. The PRIMARY difference is that Discord users will be much younger, much less PASSIVE, much less likely to just sit back and scroll through their content feed to entertain them as if the users were watching television and the postings were there to entainthem ...  but here are SOME of the OTHER key differences:
-
-* Purpose: Discord is primarily used as a primary communication medium for active development communities, groups, teams that actively interact with one another over something like a game, project or product launch, while Facebook is a social networking platform that allows users to stalk and connect [or re-connect] with old friends, family and cousins, and other distant acquaintances who users might know from past associations or events but are not now actively engaged in developing new projects, ventures or products.
-
-* Focus: Discord's main focus is on real-time text, voice, and video communication, interaction and doing things NOW, while Facebook's focus is on sharing updates, photos, and videos with a wider audience that may or may not particularly care all that much.
-
-* Audience: Discord's user base is primarily made up of developers and younger under-40 communities with a strong focus on real-time communication and active back-and-forth collaboratio [as in online games or sw development], while Facebook's user base is much broader, but older and more passively-inclined with undefined set of interests or interests tied to the demographic segments they identified with four or five decade agos.
-
-* Features: Discord offers user-developed, user-defined active communication features such as voice and video chat, lo fi music and screen sharing, and integrations with group-specific games and imaging services/video, while Facebook offers mega-mass-market features such as a FB-Engineering restricted news feed, groups, reels, and messaging that integrates with Instagram.
-
-* Monetization: Discord generates revenue primarily through value-added subscription-based services, such as Discord Nitro which appeal to channel developers who use such services to provide a more customized vibe to their Discord servers, while Facebook generates revenue primarily through advertising and selling user analytics and tracking data to companies marketing to older, wealthier, more passive users.
-
-* User interface: Discord's user interface is designed to be clean and simple, with a focus on ease of use and efficiency, while Facebook's user interface is more complex, with a wide range of features and options.
-
-* Data privacy: Discord has faced some criticism for its data collection practices, but it has taken steps to improve its privacy controls and be more transparent about how it handles user data. Facebook, on the other hand, continues to face more and more privacy concerns and controversies over the years, while the Meta parent company of Facebook has implemented various measures designed to improve its revenue stream while staying a half-step ahead of the regulators who understand that Facebook is a master at protecting its revenue stream from older, more passive and wealthy users.
-
-In summary, while both Discord and Facebook are extremely popular online platforms ... Facebook may have an order or two more in terms of users, but Discord has two or three hundred million users ... the two different entities have similiarities by they serve two entirely different purposes and cultivate a very different user demographic.
+Advocating for a indefinitely sustainable LAND ETHIC is fundamentally about the preservation of the roles for private citizens, small landholders and unaffiliated groups of citizens ... our objective is to develop the technologies that make the goals realizable by bathing the entire process in more precise, more accurate information.
 
 # Political Economics and the NEW Logic of Collective Action.
 
-Local voluntarism is about the NEW logic of collective action.
+Local voluntarism is about the NEW logic of collective action ... we see that technology can play a role in helping communities make far better decisions.
 
-It's not about rent-seeking like the OLD logic was.  The new logic of collective action is about how we assemble the material that going to go into the grinder in a manner that will be successful. Of course, NOW campaingns are primarily about new things like social media, analytics and efficiently tracking the success of content generation operations and optimizing asynchronous networks of opinion leaders. Yes, we still still see old school stuff like yardsigns and billboards, blizzards of mass mailers and the even more annoying carpetbombing of advertisements across different forms of media.  
+It's not about rent-seeking like the OLD logic was ... or current logic still is.  The NEW logic of collective action is about how we bathe the process in more precise, more accurate information.
 
 Building communities that will sustain and improve new greenspaces is going to involve a ridiculously tough campaign ... it might feel like a bit of a fight or a war at times, because this campaign will be about changing the selfish, mindless habits of who we are. It will take an effort from each one of us ... and it will definitely be a CAMPAIGN.  The DATA on campaigns is kind of stuff that economists and political economists and historians want to study ... but's that not where the work happens.
 
-## SERVING constituents before elections to CONVINCE them that the candidate will serve them even better as an incumbent
-
-Actually implementing campaigns *is*, or should be, about finding ways to SERVE CONSTITUENTS with the campaign itself ... but, we are not exactly there yet.  
-
-Almost all campaigns are about nothing other than hot air and carpetbombing the voters with way too many promises and no actual REAL VALUE. Campaigns are still run *WRONG* ... they are STILL only about finding ways bamboozle the voters.
-
-Actally SERVING constituents is all about LISTEN ... and OBSERVABILITY ENGINEERING.  Putting together a genuine listening network OR being something of an ombudsman or mouthpiece for aggreived voters is important, but beyond that campaigns *should* be about giving voters tools to make themselves better off ... rather than a pencil or a balloon for the kiddos, a MODERN campaign should give voters something like an convenient app to track fitness goals and make their diet more nutritious OR maybe that app should help them find better jobs or maybe network for their side hustles.  
-
-**SERVING constituents is about us digging the well before we start getting thirsty.**
-
-Doing this takes far, far better organizational groundwork, planning, implementation than we have seen from the currently useless and annoying campaigns in this industry.  The current state is PATHETIC ... but, as with many of our elected officials, we have gotten accustomed to pathetic.  ***DELIVERING*** on the objective of constituent service requires a strategic commitment by the campaign to be entirely about serving the constituent FIRST ... that means implementation checking, action with refactored planning followed by repition of the cycle. It's the PDCA cycle ... or DCA with refactored P and cyclic repition.
-
-We should emphasize that it's about FIGHTING [for constituents] and revising the fight plan and continually re-implementing new plans to flank the opponent ... always be flanking ... or as what General Eisenhower at D-Day or the prizefighter Mike Tyson said about planning -- it's about getting punched in the face [to wake up], counterpunching an immediate defense as best as possible, not backing down but revising the initial plan with more of a flanking strategy and then ATTACKING the weaknesses with a more informed view ... and never quitting but repeating this cycle until the bell rings ... constant updating and revision of strategic plan that MUST preceeds serious, every day campaigning ... FIGHTING every day ... fighting led from the front from the start, from advance teams, from the candidate.
-
-## Current campaigns don't work because they are strategically backward-looking.
-
-The important point is that we need to understand why the ***campaign*** for 2024 started IN EARNEST in December 2020 ... even though, most of the candiates never got that memo. The Trump campaign is really the only campaign that came close to realizing this and started [somewhat incoherently at first] putting together the Trump 2024 organization with officials working the early states immediately, or at least right after January 6 ... nobody else [who could entertain serious aspirations to be POTUS] started soon enough.
-
-So ... to otherwise great candidates like Doug Burgum and others who are generally excellent citizen-leaders and are more than well-qualified although new to POTUS campaigns -- the big question is WHY [did you start so late]? If offering your services to be POTUS, is important to you -- WHY WAIT? ... In particular, ***WHY in the world would you wait to put together a skeletal staff until 2023 to kick off your campaign for the POTUS race in 2024?*** *If you were going to run ... exactly WHAT were you waiting for to start building your team? Obviously, you cannot do everything yourself -- by why not put together the team that will help? So ...WHAT IN THE WORLD WERE YOU WAITING FOR?* Why get in so late?  Didn't you really BELIEVE that you were going to be a serious contender? *If you really did believe that you'd make a good President, then WHY should a qualified, capable candidate with aspirations to serve WAIT ... what is to be gained by waffling on the fence, waiting for invitation to materialize from the heavens?*  
-
-**This timidity on the part of OTHER candidates is WHY a guy named Trump has the support he does.**
-
-By election night of Novemer, 2022, a qualified, capable candidate for the office of POTUS should have already had a minimally-staffed campaign organization in place that, most importantly, already had the experience of directing playing a recognizable role in electing your political allies in the 2022 elections. The same WILL apply to the 2028 race ... or the 2032 race ... or beyond.
-
-Candidates start way too LATE ... they need to shift earlier ... in the development of systems, ***shifting LEFT*** means that the development starts WAY, WAY, WAY EARLIER at a more microfoundational level, because we typically think of the project timetime as progressing timewise, reading left-to-right- ... in the practice of political campaigns, *shifting left* means, a candidate for a 2024 office should have had its intell gathering operation in place in 2021 and built that organization by electing allies for the 2022 election ... as soon as it could write a check that would not bounce, a campaign need to have a concrete organization of PAID full-time staffers who believed in that campaign -- not just some informal phone calls, but PAID staff [low-cost but dedicated staff, working out of their den at home OR mom&dad's basement] ... a concrete organization which would help you to play a role at early level fundraising activities and the like that were all about electing the next generation of political leaders, new candidates running for Legislature, Attorney General and Secretary of State and Governor in  the key states of the 2024 race ... 
-
-**Leadership involves ambition and vision ... personal foresight and definition of a brand. WE NEED TO DIG OUR WELLS LONG BEFORE WE ARE EVER EVEN THINKING ABOUT BEING THIRSTY?** So start EARLIER ... if you are thinking about the race for 2028 ... you need to start NOW ... or, actually, you should have started earlier because you are already behind ... but the past is the past ... you can't change that ... we don't drive by looking in the rear view mirror; we drive by looking forward.  
-
-# At this point ... 2024 is for failure analysis and post-mortem autopsies
-
-We are coming up on what the general public recognizes as key dates, but the 2024 race is already basically over by January 1st.  Of course, there will be lots of opportunities to learn, but PRACTICALLY speaking ... the decisions that really shaped the 2024 race happened three year ago [or even before].  Large donors and even opinion leaders in small groups of friends and family members have already pretty much made up their minds about how they see things working out. So, even a year ago, was too late to build a campaign organization for 2024, but it's not too late to start building that skeletal campaign organization for 2028 and what will be put in place after the dust settles and electoral college votes are formally certified. 
-
-Now ... study what is working, who the fresh faced rising future stars ... start locking up the talent that your campaign will need to be successful as it puts together its PAID team in December 2024 ... any aspiring candidate should have started personally long before for 2028, of course, but if you care about future races, you can start now.
 
 ## Organizing a campaign and designing a VLSI circuit share similarities
 
